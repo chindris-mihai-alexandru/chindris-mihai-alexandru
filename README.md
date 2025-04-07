@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chindris-mihai-alexandru
 - 👀 I’m interested in the intellectual enterprises of computer science and the art of programming, blockchain technologies, cloud computing & everything AI-related 
-- 🌱 I'm currently doing a Master of Science in Software Engineering at the Quantic School of Business and Technology.
+- 🌱 I'm currently doing a Master of Science in Software Engineering at the Quantic School of Business and Technology
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me ... mihai.chindris@icloud.com + chindris.mihai.alexandru@gmail.com 
 
