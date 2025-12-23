@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/0f281ac2-b85f-4eef-a588-b075c948dd6d" />
+  <img width="500" height="268" alt="image" src="<img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/62014147-71fd-41ce-a638-335ef56e50ac" />
+" />
 </p>
 
 - 👋 Hi, I’m @chindris-mihai-alexandru
