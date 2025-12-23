@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" height="268" alt="animated gif" src="https://www.pinterest.com/pin/movie-analysis-her--575546027379120904/" />
+    <img src="https://i.pinimg.com/originals/15/31/27/153127959b5e20a5f230a020cfaf6e08.gif" alt="animated gif" width="500" height="268" />
 </p>
 
 Make sure to replace the `src` URL with the direct link to the GIF if you want it to load properly. If you have the correct URL, just use the code above to display it.
