@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://i.pinimg.com/originals/15/31/27/153127959b5e20a5f230a020cfaf6e08.gif" alt="animated gif" width="500" height="268" />
+    <a href="https://your-link-to-the-gif-or-video.com">
+        <img src="https://i.pinimg.com/originals/15/31/27/153127959b5e20a5f230a020cfaf6e08.gif" alt="animated gif" width="500" height="268" />
+    </a>
 </p>
 
 Make sure to replace the `src` URL with the direct link to the GIF if you want it to load properly. If you have the correct URL, just use the code above to display it.
