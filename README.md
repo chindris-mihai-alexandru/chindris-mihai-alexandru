@@ -1,7 +1,10 @@
+```html
 <p align="center">
-  <img width="500" height="268" alt="image" src="<img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/62014147-71fd-41ce-a638-335ef56e50ac" />
-" />
+  <img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/62014147-71fd-41ce-a638-335ef56e50ac" />
 </p>
+```
+
+Make sure to replace the `src` URL with the direct link to the GIF if you want it to load properly. If you have the correct URL, just use the code above to display it.
 
 - 👋 Hi, I’m @chindris-mihai-alexandru
 - 👀 I’m interested in the intellectual enterprises of computer science and the art of programming, blockchain technologies, cloud computing & everything AI-related 
