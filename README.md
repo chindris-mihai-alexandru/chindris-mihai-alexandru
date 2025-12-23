@@ -1,5 +1,6 @@
-<img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/0f281ac2-b85f-4eef-a588-b075c948dd6d" />
-
+<p align="center">
+  <img width="500" height="268" alt="image" src="https://github.com/user-attachments/assets/0f281ac2-b85f-4eef-a588-b075c948dd6d" />
+</p>
 
 - 👋 Hi, I’m @chindris-mihai-alexandru
 - 👀 I’m interested in the intellectual enterprises of computer science and the art of programming, blockchain technologies, cloud computing & everything AI-related 
