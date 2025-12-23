@@ -4,8 +4,6 @@
     </a>
 </p>
 
-Make sure to replace the `src` URL with the direct link to the GIF if you want it to load properly. If you have the correct URL, just use the code above to display it.
-
 - 👋 Hi, I’m @chindris-mihai-alexandru
 - 👀 I’m interested in the intellectual enterprises of computer science and the art of programming, blockchain technologies, cloud computing & everything AI-related 
 - 🎓 I'm currently doing a Master of Science in Software Engineering at the Quantic School of Business and Technology
