@@ -4,7 +4,7 @@
     </a>
 </p>
 
-📫 mc146@students.quantic.edu & mchindris@acm.org
+<p align="center"> 📫 mc146@students.quantic.edu & mchindris@acm.org </p>
 
 <!---
 chindris-mihai-alexandru/chindris-mihai-alexandru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
