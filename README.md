@@ -7,7 +7,7 @@
 <h2 align="center">Hey there! I'm Mihai</h2>
 
 <p align="center">
-    <strong>SWE @ Quantic · Ex-Siemens · Aspiring Product Manager</strong>
+    <strong>SWE student @ Quantic School of Business and Technology · Ex-Siemens · Aspiring Product Manager</strong>
 </p>
 
 <p align="center">
