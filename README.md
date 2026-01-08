@@ -35,8 +35,8 @@ Currently pursuing a Master's in Software Engineering at **Quantic School of Bus
 </p>
 
 <p align="center">
-    <a href="mailto:mihai.chindris@icloud.com">
-        <img src="https://img.shields.io/badge/Email-mihai.chindris@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:hello@mihai.codes">
+        <img src="https://img.shields.io/badge/Email-hello@mihai.codes-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
     </a>
 </p>
 
