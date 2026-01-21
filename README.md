@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=chindris-mihai-alexandru&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
     <a href="https://www.linkedin.com/in/mihai-chindris" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
