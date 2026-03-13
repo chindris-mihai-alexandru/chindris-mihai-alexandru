@@ -1,8 +1,4 @@
 <p align="center">
-    <strong>SWE student @ Quantic School of Business and Technology · Millennial · Aspiring Product Manager</strong>
-</p>
-
-<p align="center">
     <a href="https://www.linkedin.com/in/mihai-chindris" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -15,8 +11,4 @@
     <a href="mailto:hello@mihai.codes">
         <img src="https://img.shields.io/badge/Email-hello@mihai.codes-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
     </a>
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=chindris-mihai-alexandru&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
