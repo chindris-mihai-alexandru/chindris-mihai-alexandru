@@ -1,9 +1,3 @@
-<p align="center">
-    <a href="https://mihai.codes">
-        <img src="https://i.pinimg.com/originals/15/31/27/153127959b5e20a5f230a020cfaf6e08.gif" alt="animated gif" width="500" height="268" />
-    </a>
-</p>
-
 <h2 align="center">Hey there! 👋 I'm Mihai</h2>
 
 <p align="center">
