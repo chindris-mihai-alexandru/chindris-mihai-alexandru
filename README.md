@@ -1,1 +1,1 @@
-AI is cool, I guess.
+Burning tokens like there is no tomorrow.
