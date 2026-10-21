@@ -1,12 +1,12 @@
 <p align="center">
-    <a href="https://github.com/Mihai-Codes">
-        <img src="https://img.shields.io/badge/Organization-Mihai__Codes-181717?logo=github&logoColor=white" alt="Mihai-Codes" />
-    </a>
     <a href="https://mihaichindris.me/blog">
         <img src="https://img.shields.io/badge/Blog-mihaichindris.me-4285F4?logo=google-chrome&logoColor=white" alt="Blog" />
     </a>
     <a href="https://www.linkedin.com/in/mihai-chindris" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-mihai--chindris-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/mihai_chindris" target="_blank">
+        <img src="https://img.shields.io/badge/X-@mihai__chindris-000000?logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://www.credly.com/users/mihai-alexandru-chindris" target="_blank">
         <img src="https://img.shields.io/badge/Credly-Badges-FF6B00?logo=credly&logoColor=white" alt="Credly" />
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <strong>AI engineer building developer tools with Python, AWS, and LLMs.</strong>
+    <strong>🇪🇺 AI engineer building developer tools with Python, AWS, and LLMs. 🤖</strong>
 </p>
 
 <p align="justify">
@@ -47,6 +47,14 @@
     <a href="https://www.credly.com/badges/dbc242a3-33e7-4cd5-9e60-0e1d75795168/public_url"><img src="https://images.credly.com/images/205bd33f-a6e5-4f00-8d1d-9c981b68e241/blob" alt="Memory for AI Applications with MongoDB" width="90" /></a>
     <a href="https://www.credly.com/badges/87fb16e1-7370-46e2-9f5c-c8f5320fdc23/public_url"><img src="https://images.credly.com/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" alt="Building GenAI Applications with MongoDB" width="90" /></a>
 </p>
+
+## 🎤 Public Speaking
+
+*Coming soon.*
+
+## ✍️ Articles & Thoughts
+
+*Coming soon.*
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=chindris-mihai-alexandru&cache_seconds=86400" alt="Mihai's GitHub Stats" />
