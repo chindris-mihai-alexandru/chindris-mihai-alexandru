@@ -17,8 +17,8 @@
     <strong>AI engineer building developer tools with Python, AWS, and LLMs.</strong>
 </p>
 
-<p align="center">
-    Formerly IT operations and DevOps at Siemens, now growing into cloud and platform engineering. My Quantic capstone, EvidenceEU, tackles the paperwork migrants and legal teams face in a borderless Europe, multilingual document intelligence with a live deployment, and the faculty evaluation called it "an excellent Capstone project" with "real-world usability". Open source keeps me sharp, mostly fixes and integrations across tools I actually use. AWS Certified AI Practitioner, working toward Cloud Practitioner. I build with AI coding agents like OpenHands, Cursor, and Jules, and review their work carefully before anything ships.
+<p align="justify">
+    Formerly IT operations and DevOps at Siemens, now growing into cloud and platform engineering. My Quantic capstone, EvidenceEU, tackles the paperwork migrants and legal teams face in a borderless Europe, multilingual document intelligence with a live deployment, and the faculty evaluation called it "an excellent Capstone project" with "real-world usability". The capstone has since been rebranded to <a href="https://justippo.tech">Justippo</a>. Open source keeps me sharp, mostly fixes and integrations across tools I actually use. <a href="https://www.credly.com/badges/5e0bbf79-bdf7-4560-ba2d-aaeabfd27008/public_url">AWS Certified AI Practitioner</a>, working toward Cloud Practitioner. I build with AI coding agents like OpenHands, Cursor, and Jules, and review their work carefully before anything ships.
 </p>
 
 ### 🎖️ AI & cloud badges
