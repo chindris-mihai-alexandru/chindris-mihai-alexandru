@@ -47,11 +47,3 @@
     <a href="https://www.credly.com/badges/dbc242a3-33e7-4cd5-9e60-0e1d75795168/public_url"><img src="https://images.credly.com/images/205bd33f-a6e5-4f00-8d1d-9c981b68e241/blob" alt="Memory for AI Applications with MongoDB" width="90" /></a>
     <a href="https://www.credly.com/badges/87fb16e1-7370-46e2-9f5c-c8f5320fdc23/public_url"><img src="https://images.credly.com/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" alt="Building GenAI Applications with MongoDB" width="90" /></a>
 </p>
-
-## 🎤 Public Speaking
-
-*Coming soon.*
-
-## ✍️ Articles & Thoughts
-
-*Coming soon.*
