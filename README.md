@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://mihaichindris.me/blog">
-        <img src="https://img.shields.io/badge/Blog-mihaichindris.me-4285F4?logo=google-chrome&logoColor=white" alt="Blog" />
+    <a href="https://mihaichindris.eu/blog">
+        <img src="https://img.shields.io/badge/Blog-mihaichindris.eu-4285F4?logo=google-chrome&logoColor=white" alt="Blog" />
     </a>
     <a href="https://www.linkedin.com/in/mihai-chindris" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-mihai--chindris-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
